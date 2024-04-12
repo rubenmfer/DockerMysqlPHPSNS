@@ -1,3 +1,3 @@
 # DockerMysqlPHPSNS
 
-prueba conflicto
+linea añadida desde la rama "nuevaRama"
